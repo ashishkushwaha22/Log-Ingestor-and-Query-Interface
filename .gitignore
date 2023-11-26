@@ -1,0 +1,7 @@
+# .gitignore
+
+venv/
+
+logInjestorProject/db.sqlite3
+
+logInjestorProject/logInjestor/migrations/
