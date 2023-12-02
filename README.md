@@ -1,4 +1,4 @@
-# Django Log Ingestor
+# Log Ingestor and Query Interface in Django 
 
 ## Introduction
 
